@@ -2,4 +2,4 @@
 - 👀 I’m interested in algorithms, web technologies, and video games 😁
 - 🌱 I’m currently learning Rust programming language.
 - 💞️ I’m looking to collaborate on some Rust projects.
-- 📫 You can reach me at [fbmelarpis@up.edu.ph](mailto:fbmelarpis@up.edu.ph)
+- 📫 You can reach me at [ferrielmelarpis@gmail.com](mailto:ferrielmelarpis@gmail.com)
